@@ -8,4 +8,5 @@ Features:
   4. Search from your list of contacts. 
   
 <hr>  
+
 (this project is a work in progress)  
